@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/steam-board/static/css/main.f128f961.chunk.css",
+    "main.css": "/steam-board/static/css/main.fe2f6e4e.chunk.css",
     "main.js": "/steam-board/static/js/main.406943bc.chunk.js",
     "main.js.map": "/steam-board/static/js/main.406943bc.chunk.js.map",
     "runtime-main.js": "/steam-board/static/js/runtime-main.09fa8190.js",
@@ -8,15 +8,15 @@
     "static/js/2.3879c600.chunk.js": "/steam-board/static/js/2.3879c600.chunk.js",
     "static/js/2.3879c600.chunk.js.map": "/steam-board/static/js/2.3879c600.chunk.js.map",
     "index.html": "/steam-board/index.html",
-    "precache-manifest.ad8b7d687557f0e18531bc2859d2bd50.js": "/steam-board/precache-manifest.ad8b7d687557f0e18531bc2859d2bd50.js",
+    "precache-manifest.ba4a84d5fc2eff2f7bf1acff673f504b.js": "/steam-board/precache-manifest.ba4a84d5fc2eff2f7bf1acff673f504b.js",
     "service-worker.js": "/steam-board/service-worker.js",
-    "static/css/main.f128f961.chunk.css.map": "/steam-board/static/css/main.f128f961.chunk.css.map",
+    "static/css/main.fe2f6e4e.chunk.css.map": "/steam-board/static/css/main.fe2f6e4e.chunk.css.map",
     "static/js/2.3879c600.chunk.js.LICENSE.txt": "/steam-board/static/js/2.3879c600.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09fa8190.js",
     "static/js/2.3879c600.chunk.js",
-    "static/css/main.f128f961.chunk.css",
+    "static/css/main.fe2f6e4e.chunk.css",
     "static/js/main.406943bc.chunk.js"
   ]
 }

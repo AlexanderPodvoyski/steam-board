@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec061e11b6eb594ea72a704390d80489",
+    "revision": "6e5fb9bdb68f18d4f1459889f71cd29d",
     "url": "/steam-board/index.html"
   },
   {
-    "revision": "ae73b317312f8a82a6b5",
-    "url": "/steam-board/static/css/main.f128f961.chunk.css"
+    "revision": "962b3243d18055a17a1d",
+    "url": "/steam-board/static/css/main.fe2f6e4e.chunk.css"
   },
   {
     "revision": "280125a832c7e0505505",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steam-board/static/js/2.3879c600.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae73b317312f8a82a6b5",
+    "revision": "962b3243d18055a17a1d",
     "url": "/steam-board/static/js/main.406943bc.chunk.js"
   },
   {
